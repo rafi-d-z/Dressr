@@ -1,34 +1,35 @@
-# PerfectFit
-Outfits made easy
+# Team Project Proposal
 
-[Website](https://xchen601.github.io/Fashion-App/) - https://xchen601.github.io/Fashion-App/
+Now that groups are formed, submit **one team project proposal** for approval. This proposal is a summary of the idea and similar to your individual proposals. The proposal requirements are listed below.
 
-## Our Team
-Salif Tankoano - Front-End Developer
+## Project Proposal Requirements
 
-Bryan Rivera - Full-Stack Developer
+_Make sure your proposal contains the following 5 sections._
 
-Xing Chen - Front-End Developer
+_It should be **2 pages max**. You do not have to include mockups or data models at this time. We will work on those in your next team assignment._
 
-Tenzing Nyima - Back-End Developer
+1. **Team Name** and **Project Name**
+2. **Team Members**
+    - _Include_: Name, Email, Github username, School
+3. **Executive summary** (2 paragraphs)
+    - A summary/pitch of your project. This should include answers to the following:
+        + What does the application do?
+        + What is the motivation for your application?
+        + Which types of people would want to use this application? (don't say everyone)
+        + Are there similar applications and/or competitors available now? How does your idea differ? or why is there a need for a competitor?
+            * _It is OK for your idea to be a clone of an existing application_
+4. **User-types**:
+    - Clearly define and describe the User-types for your application. 1 or more user-types depending on your idea.
+    - _Think of_: Sellers, Buyers, Administrator, Moderator, Content-creator, Consumer, Teachers, Students, etc...
+5. **User Stories**:
+    - List the most important actions for each user-type
+    - What are the most important workflows for users of your application
+    - To learn more about User stories read:
+        + https://dzone.com/articles/writing-user-stories-web
+        + https://www.mountaingoatsoftware.com/presentations/introduction-to-user-stories
 
+## Submit
 
-## Features 
-### Smooth User Experience
-With the power of React and Bootstrap, the team has carefully crafted the ideal website layout.
+Submit your team proposal here: https://forms.gle/uBkdCqEZjiavf2G38
 
-### Real Time Weather
-Get live weather reports anywhere from the United States!
-
-### Personal Wardrobe
-Have too many clothes? Use our intuitive online wardrobe to organize your outfits.
-
-## Pages
-### Homepage
-<img width="1509" alt="image" src="https://github.com/XChen601/Fashion-App/assets/72898664/429e919b-37ca-40d5-bcda-a254682c22ba">
-
-### Weather Page
-![image](https://github.com/XChen601/Fashion-App/assets/72898664/afa62785-9cae-4612-bd17-1e9d3c1c6755)
-
-### Wardrobe Page
-![image](https://github.com/XChen601/Fashion-App/assets/72898664/a7fe03b6-1ba6-40e5-b190-49f48a057b3c)
+**Due:** Week 3
