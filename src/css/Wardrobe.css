@@ -1,0 +1,113 @@
+
+.wardrobe-page {
+  margin-top: 115px;
+  background-color: black;
+}
+
+h2 {
+  background-color: #212529;;
+  color: #ffc008;
+  padding: 10px;
+  text-align: center;
+  margin: 0;
+}
+
+.wardrobe-page h2 {
+  color: #ffc008;
+}
+
+section {
+  margin: 20px;
+  padding: 20px;
+  background-color: #5d5d5d;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.clothing-list, .laundry-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+  background-color: #212529;
+}
+.clothing {
+  min-height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px dotted #333;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.clothing img {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+}
+
+.clothing button {
+  margin: 5px 3px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #333;
+  color: #fff;
+  transition: background-color 0.3s;
+}
+
+.clothing button:hover {
+  background-color: #555;
+}
+
+
+.add-btn {
+  background-image: url('../images/plus.webp');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 80%;
+  cursor: pointer;
+}
+
+.clothing-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Ensure the modal is on top of other content */
+}
+
+.clothing-modal-content {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 5px;
+  width: 80%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.add-clothing-btn {
+  background-color: rgb(119, 208, 152);
+}
+
+.close-btn {
+  background-color: rgb(109, 46, 46);
+}
+
+.modal-img {
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
+}
+
